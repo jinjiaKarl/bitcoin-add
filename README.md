@@ -1,8 +1,11 @@
 # bitcoin-add
 
 git clone https://github.com/jinjiaKarl/bitcoin-add.git
+
 cd bitcoin-add
+
 go build -o add
+
 ./add
 
 运行结果如下：
