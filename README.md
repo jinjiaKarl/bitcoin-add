@@ -7,7 +7,7 @@ cd bitcoin-add
 go build -o add
 
 ./add
-
+```
 0 - Having a private ECDSA key
 14DAC18B7A0C1466E38F840BD9637FA3B0A48DE51F74062792DB779C4569901A
 =======================
@@ -62,3 +62,4 @@ private wallet import format
 =======================
 private wallet import format 5HyUHKKZ2Kc8JF2diUFdTGBT8RrqyYag9ui9UUEyeNDopcFxbrc
 =======================
+```
